@@ -5,6 +5,6 @@
     "/content/demo-eds-sites/metadata:/metadata.json"
   ],
   "includes": [
-     "/content/demo-eds-sites/",
+     "/content/demo-eds-sites/"
   ]
 }
